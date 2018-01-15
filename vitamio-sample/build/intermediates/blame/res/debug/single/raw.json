@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/sahilgoyal/Desktop/sahildemo/RtmpDemo/vitamio-sample/build/intermediates/res/merged/debug/raw/libarm.so",
+        "source": "/home/sahilgoyal/Desktop/sahildemo/RtmpDemo/vitamio-sample/res/raw/libarm.so"
+    },
+    {
+        "merged": "/home/sahilgoyal/Desktop/sahildemo/RtmpDemo/vitamio-sample/build/intermediates/res/merged/debug/raw/test_cbr.mp3",
+        "source": "/home/sahilgoyal/Desktop/sahildemo/RtmpDemo/vitamio-sample/res/raw/test_cbr.mp3"
+    }
+]
